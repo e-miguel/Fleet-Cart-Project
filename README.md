@@ -5,6 +5,9 @@ Host a Dynamic Ecommerce Website on AWS
 AWS - S3, VPC with public and private subnets, security groups, EC2 instances, NAT gateways, RDS, Application load balancer, Route 53, Auto scaling group, Certificate manager, EFS and more.
 MySQL Workbench, Apache, and BASH/PHP.
 
+# The Problem
+Shein, a leading E-Commerce company needs to handle a surge in traffic on their upcoming sale event. The company wants to ensure that their website remains highly available and responsive to customers even during high traffic periods.
+
 # Objectives
 1. Create VPC with public and private subnets
 2. Create NAT gateways in the public subnets
